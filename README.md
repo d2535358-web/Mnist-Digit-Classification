@@ -78,9 +78,8 @@ The following preprocessing steps are performed:
 - Preparing the images for the neural network.
 - Separating training and testing data.
 .........
+  
   ## Project Workflow
-
-``text
 MNIST Dataset
        ↓
 Load Dataset
@@ -103,7 +102,7 @@ Visualize Results
        ↓
 Predict Handwritten Digits
 
-````
+``
 Author
 Darshan.D
 UEN: RTU24101CS015
