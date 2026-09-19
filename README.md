@@ -96,12 +96,7 @@ The following preprocessing steps are performed:
 ## Author
 
 **Darshan.D**
-
 **UEN:** RTU24101CS015
-
 **Course:** B.Tech Computer Science and Engineering
-
-**Semester:** 5th Semester
-
 **College:** Rai Technology University, Bangalore
 
