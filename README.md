@@ -77,10 +77,9 @@ The following preprocessing steps are performed:
 - Normalizing pixel values between 0 and 1.
 - Preparing the images for the neural network.
 - Separating training and testing data.
+.........
+  ## Project Workflow
 
-## Project Workflow
-
-```text
 MNIST Dataset
        ↓
 Load Dataset
