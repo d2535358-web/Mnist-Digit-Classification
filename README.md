@@ -78,35 +78,30 @@ The following preprocessing steps are performed:
 - Preparing the images for the neural network.
 - Separating training and testing data.
 .........
-  
   ## Project Workflow
-  ``
-MNIST Dataset
-       ↓
-Load Dataset
-       ↓
-Explore Images
-       ↓
-Data Preprocessing
-       ↓
-Normalize Pixel Values
-       ↓
-Build Deep Learning Model
-       ↓
-Apply Activation Functions
-       ↓
-Train Model
-       ↓
-Evaluate Model
-       ↓
-Visualize Results
-       ↓
-Predict Handwritten Digits
-``
-Author
-Darshan.D
-UEN: RTU24101CS015
-B.Tech Computer Science and Engineering
-5th Semester
-Rai Technology University, Bangalore
+
+1. Load the MNIST Dataset
+2. Explore Sample Images
+3. Preprocess the Data
+4. Normalize Pixel Values
+5. Build the Deep Learning Model
+6. Apply Activation Functions
+7. Train the Model
+8. Evaluate the Model
+9. Visualize the Results
+10. Predict Handwritten Digits
+
+---
+
+## Author
+
+**Darshan.D**
+
+**UEN:** RTU24101CS015
+
+**Course:** B.Tech Computer Science and Engineering
+
+**Semester:** 5th Semester
+
+**College:** Rai Technology University, Bangalore
 
