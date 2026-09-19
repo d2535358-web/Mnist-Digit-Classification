@@ -103,7 +103,7 @@ Visualize Results
        ↓
 Predict Handwritten Digits
 
-```
+````
 Author
 Darshan.D
 UEN: RTU24101CS015
