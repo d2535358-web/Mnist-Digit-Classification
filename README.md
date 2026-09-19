@@ -80,7 +80,7 @@ The following preprocessing steps are performed:
 .........
   ## Project Workflow
 
-```text
+``text
 MNIST Dataset
        ↓
 Load Dataset
