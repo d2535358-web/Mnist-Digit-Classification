@@ -32,8 +32,6 @@ The model processes **28 × 28 grayscale images**, trains on handwritten digits,
 - NumPy
 - Matplotlib
 - Google Colab
-- ------------
-
 
 ## Dataset
 
@@ -44,7 +42,8 @@ The project uses the **MNIST Handwritten Digit Dataset**.
 - Image Size: 28 × 28 pixels
 - Classes: 0–9
 - Image Type: Grayscale
---------
+
+
 
 ## Author
 
