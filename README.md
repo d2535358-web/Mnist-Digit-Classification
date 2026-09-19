@@ -5,6 +5,15 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d2535358-web/Mnist-Digit-Classification/blob/main/MNIST_DIGIT_CLASSIFICATION.ipynb)
 
+Project Description
+MNIST Digit Classification using Deep Learning.
+This project uses:
+TensorFlow
+Keras
+Artificial Neural Network
+The project recognizes handwritten digits from 0 to 9 using the MNIST dataset.
+The model processes 28 × 28 grayscale images, trains on handwritten digits, and predicts the correct digit.
+
 ## 👨‍🎓 Student Details
 
 - **Name:** Darshan.D
@@ -101,3 +110,12 @@ Evaluate Model
 Visualize Results
       ↓
 Predict Handwritten Digits
+
+-----
+
+Author
+Darshan.D
+UEN: RTU24101CS015
+B.Tech Computer Science and Engineering
+5th Semester
+Rai Technology University, Bangalore
