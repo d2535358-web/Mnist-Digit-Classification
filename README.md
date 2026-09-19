@@ -80,6 +80,7 @@ The following preprocessing steps are performed:
 .........
   
   ## Project Workflow
+  ``
 MNIST Dataset
        ↓
 Load Dataset
@@ -101,7 +102,7 @@ Evaluate Model
 Visualize Results
        ↓
 Predict Handwritten Digits
---
+``
 Author
 Darshan.D
 UEN: RTU24101CS015
